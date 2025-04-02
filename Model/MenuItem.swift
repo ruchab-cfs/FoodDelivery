@@ -12,5 +12,6 @@ struct MenuItem {
     let price: Double
     let img: String
     var count: Int = 0
+    //asach
 }
 
